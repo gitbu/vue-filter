@@ -5,14 +5,14 @@
 ###安装
 
 ```bash
-npm i -D @gitbu/vue-filter
+npm i -D vue-filter-kits
 ```
 
 ### 引入并使用
 
 ```js
 import Vue from 'vue';
-import vueFilter from '@gitbu/vue-filter';
+import vueFilter from 'vue-filter-kits';
 
 Vue.use(vueFilter);
 
